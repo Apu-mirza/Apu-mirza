@@ -3,7 +3,7 @@
 I'm a passionate developer with experience in various programming languages, frameworks, and tools. I love to solve problems and build projects that make a difference.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/your-repository/main/your-animation.svg" alt="Programmer Animation" />
+  <img src="https://user-images.githubusercontent.com/apu-mirza/apu-mirza/main/programmerAnim.webp" alt="Programmer Animation" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apu-mirza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
