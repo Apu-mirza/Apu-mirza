@@ -57,7 +57,7 @@ I'm a passionate developer with experience in various programming languages, fra
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=apu-mirza&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mirza-tarikul-islam-b0986722a/))
+- [LinkedIn](https://www.linkedin.com/in/mirza-tarikul-islam-b0986722a/)
 - [Portfolio](https://your-portfolio.com)
 
 
