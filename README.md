@@ -3,10 +3,10 @@
 I'm a passionate developer with experience in various programming languages, frameworks, and tools. I love to solve problems and build projects that make a difference.
 
 <p align="center">
-  <img src="https://github.com/Apu-mirza/Apu-mirza/blob/main/programmerAnim.webp" alt="Programmer Animation" />
+  <img src="https://github.com/Apu-mirza/Apu-mirza/blob/main/programmerAnim1.webp" alt="Programmer Animation" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=apu-mirza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=apu-mirza&theme=radical)
 
 ## 🛠 Skills
 
@@ -54,7 +54,7 @@ I'm a passionate developer with experience in various programming languages, fra
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=apu-mirza&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apu-mirza&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=apu-mirza&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apu-mirza&theme=radical)
 
 ## 🔗 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mirza-tarikul-islam-b0986722a/))
