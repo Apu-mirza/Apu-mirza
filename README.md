@@ -2,7 +2,9 @@
 
 I'm a passionate developer with experience in various programming languages, frameworks, and tools. I love to solve problems and build projects that make a difference.
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/your-repository/main/your-animation.svg" alt="Programmer Animation" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apu-mirza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -50,10 +52,10 @@ I'm a passionate developer with experience in various programming languages, fra
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=apu-mirza&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mirza-tarikul-islam-b0986722a/))
 - [Portfolio](https://your-portfolio.com)
 
 
