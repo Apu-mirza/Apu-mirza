@@ -1,6 +1,11 @@
 # Hi there, I'm Mirza Opu 👋
 
-I'm a passionate developer with experience in various programming languages, frameworks, and tools. I love to solve problems and build projects that make a difference.
+Graduated from the Institute of Information Technology (IIT), Jahangirnagar University. I'm a passionate developer with experience in various programming languages, frameworks, and tools. I love to solve problems and build projects that make a difference. I am an aspiring Software Engineer eager to apply my academic knowledge to real-world 
+challenges and build impactful applications.
+
+- 📱 Passionate about Android/Mobile Application Development.
+- 💻 Enjoy solving logical problems and competitive programming.
+- 🌱 Currently exploring open-source contributions.
 
 <p align="center">
   <img src="https://github.com/Apu-mirza/Apu-mirza/blob/main/programmerAnim1.webp" alt="Programmer Animation" />
